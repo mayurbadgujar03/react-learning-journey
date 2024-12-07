@@ -42,9 +42,8 @@ Here are the magical tools I’ve been wielding along the way:
 Whether you’re here for inspiration, education, or just curiosity, I invite you to explore my projects. Try them out, share feedback, or even fork this repo to start your own journey.
 
 🌍 Let’s connect and grow together:
-- [GitHub](https://github.com/)
-- [LinkedIn](https://linkedin.com/)
-- [Twitter](https://twitter.com/)
+- [GitHub]([https://github.com/mayurbadgujar03/])
+- [LinkedIn]([https://linkedin.com/](https://www.linkedin.com/in/mayur-badgujar-060a7927b/))
 
 ## 🌈 The Road Ahead
 
