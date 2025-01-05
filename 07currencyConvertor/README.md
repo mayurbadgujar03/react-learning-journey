@@ -77,5 +77,5 @@ This project focuses on leveraging React hooks and component design for building
 ---
 
 ## 🤝 Acknowledgments
-- **API**: [@fawazahmed0/currency-api]([https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/usd.json])
+- **API**: [@fawazahmed0/currency-api](https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/usd.json).
 - **Icons**: Vite React Icon
